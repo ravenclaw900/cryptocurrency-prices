@@ -6,4 +6,4 @@ A few scripts to grab cryptocurrency prices and price changes.  I made this as a
 - C++
 - Javascript
 
-The Go script is completely standard, the Bash script requires `cURL`, `jq`, and `printf`, the Python script requires `requests` and `json`, the C++ script requires `json-c` and `libcurl`, and the Javascript script is also standard.
+The Go script is completely standard, the Bash script requires `cURL`, `jq`, and `printf`, the Python script requires `requests` and `json`, the C++ script requires `json` and `libcurl`, and the Javascript script is also standard.
